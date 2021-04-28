@@ -1,0 +1,58 @@
+*
+{
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+h1
+{
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    background: linear-gradient(45deg, blue, orange, blue );
+    padding: 2% 0% 2% 0%;
+}
+
+body
+{
+    background: seashell;
+}
+
+p{
+    margin: 2% 0% 2% 0%;
+}
+
+.container
+{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+footer
+{
+    background: linear-gradient(45deg, blue, orange, blue );
+    padding: 2% 0% 2% 0%;
+    text-align: right;
+    font-size: 20px;
+    padding-right: 2%;
+}
+form
+{
+    margin-top: 2%;
+}
+
+input[type="number"]
+{
+    border: 1px solid black;
+    padding: 7px 7px;
+    border-radius: 15px;
+}
+
+button
+{
+    padding: 12px 12px;
+    font-size: 15px;
+    margin-bottom: 2%;
+}
